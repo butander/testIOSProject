@@ -2,8 +2,8 @@
 //  main.m
 //  test
 //
-//  Created by 刘吟 on 17/1/12.
-//  Copyright © 2017年 deviceone. All rights reserved.
+//  Created by wl on 2017/1/12.
+//  Copyright © 2017年 wl. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

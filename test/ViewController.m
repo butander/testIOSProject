@@ -2,8 +2,8 @@
 //  ViewController.m
 //  test
 //
-//  Created by 刘吟 on 17/1/12.
-//  Copyright © 2017年 deviceone. All rights reserved.
+//  Created by wl on 2017/1/12.
+//  Copyright © 2017年 wl. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -19,11 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 
 @end
